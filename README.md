@@ -17,7 +17,7 @@ All the following libraries are needed to implement this project:
 **Matplotlib**<br>
 **Seaborn**<br>
 **Numpy**<br>
-**networkx**<br>
+**networkx**<br> 
 
 
 ### Project Motivation <a name = "motivation"></a>
@@ -26,3 +26,8 @@ This project is dedicated to show my love to one of the best dramatic series of 
 My goal is understand how the importance of different characters changed during the course of the series bases on the impact they had on other charatcers and on the overall plot.
 
 ### Files Description <a name = "description"></a>
+
+**datasets/** : This directory contains five files where each one has weight between each character for the corresponding book.
+
+**notebook.ipynb** : This notebook contains all the preprocessing, EDA and our analysis to find answers to interesting questions.
+
